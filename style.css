@@ -1,0 +1,109 @@
+.col1 {
+    text-align: right;
+}
+
+.col2 {
+    text-align: right;
+}
+
+.section2 {
+    text-align: center;
+    
+}
+
+h5 {
+    color: gray;
+}
+
+
+/*Spacers*/
+
+.divider1 {
+    padding: 15px;
+}
+
+.divider2 {
+    padding: 45px;
+}
+
+/*HTML Img Logo*/
+#htmllogoimg {
+    width: 209px;
+    height: 210px;
+}
+
+#logo2 {
+    width: 209px;
+    height: 190px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+    text-align: center;
+}
+
+/*Template Description*/
+.templatedescription {
+    text-align: left;
+}
+
+.card {
+    text-align: left;
+}
+
+/*Section logos*/
+.sectionlogos {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.CenterAreTitle {
+    text-align: center;
+}
+
+/*This is the Jumbotron section called "mainboard"*/
+.mainboard {
+    background-image: url(https://unsplash.com/photos/EhTcC9sYXsw);
+}
+
+.jumbotron {
+    background-image: url("/Img/MainImg.jpg");
+    background-size: cover;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 19px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .jumbocontent {
+    position: absolute;
+    left: 50%!important;
+    z-index: 10;
+    color: black;
+    text-align: center;
+    top: 42%!important;
+    transform: translate(-50%, -50%);
+    width: fit-content;
+    padding: 40px!important;
+  }
+
+  .card-img {
+      width: 100px;
+      height: 325px;
+      text-align: center;
+  }
+
+  .navbar li {
+    margin-left:20px;
+    margin-right:20px;
+    font-size: 18pt;
+
+  }
+
+  .imgbutton {
+      text-align: center;
+  }
+
+iframe {
+    width: 900px;
+    height: 500px;
+}
+
