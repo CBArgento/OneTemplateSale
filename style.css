@@ -67,7 +67,7 @@ h5 {
 }
 
 .jumbotron {
-    background-image: url("/Img/MainImg.jpg");
+    background-image: url("Assets/Imgs/colors.jpg");
     background-size: cover;
     height: 500px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 19px 0 rgba(0, 0, 0, 0.19);
@@ -105,5 +105,98 @@ h5 {
 iframe {
     width: 900px;
     height: 500px;
+}
+
+
+/*HOME PAGE*/
+.card {
+    text-align: center;
+    
+}
+
+.FeatureTitle {
+    text-align: center;
+}
+
+.FeatureIcons {
+    text-align: center;
+}
+
+#ContentTitle {
+    text-align: center;
+    font-size: 48px;
+}
+
+#iconsstyle {
+    text-align: center;
+    font-size: 60px;
+    color: #aaf683;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+#icons {
+    padding-right: 1em;
+ }
+
+ #icon {
+    height: 95px;
+    width: 95px;
+    
+    }
+    
+    .Businfo {
+    text-align: center;
+    }
+
+    #conecticons {
+        text-align: center;
+        
+    }
+
+     /*Parallax*/
+  .para-slide {
+	width:100%;
+	position:relative;
+	text-align:center;
+	height:100vh;
+}
+.para-slide h1 {
+	margin:0;
+	padding-top:5%;
+	font-size:3.5em;
+	color:white;
+}
+.para-slide h2 {
+	margin:0;
+	padding-top:10%;
+	color:white;
+	font-size:3.75em;
+}
+.para-slide h3 {
+	color:white;
+	margin-top:0;
+}
+.para-slide p {
+	color:white;
+	font-size:1.5em;
+	margin:0;
+	padding-top:3%;
+	padding-bottom:3%;
+	max-width:65%;
+	margin:auto;
+}
+
+.paratext {
+    text-align: center;
+}
+
+
+#logosize {
+    width: 75px;
+    height: 75px;
+    mx-auto
+    display:block
 }
 
