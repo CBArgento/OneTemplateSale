@@ -236,8 +236,10 @@ iframe {
   }
   
   .slider .quote {
-    font-size: 40px;
+    font-size: 45px;
     font-style: italic;
+    font-weight: bold;
+    color: wheat;
   }
   
   .slider .source {
